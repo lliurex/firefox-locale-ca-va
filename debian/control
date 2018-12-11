@@ -9,6 +9,6 @@ Homepage: http://lliurex.net
 
 Package: firefox-locale-ca-va
 Architecture: all
-Depends: ${misc:Depends}, firefox(>=63.0), lliurex-firefox-settings(>=0.84)
+Depends: ${misc:Depends}, firefox(>=63.0)
 Description: Valencian language pack for firefox
 
