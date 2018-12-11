@@ -1,0 +1,17 @@
+firefox-locale-ca-va (63.0.3-1lliurex) bionic; urgency=medium
+
+  * Bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 11 Dec 2018 15:15:27 +0100
+
+firefox-locale-ca-va (60.1) xenial; urgency=medium
+
+  * Add dependency on lliurex-firefox-settings
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 28 Jun 2018 08:22:02 +0200
+
+firefox-locale-ca-va (60.0) xenial; urgency=medium
+
+  * Initial release. 
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Mon, 25 Jun 2018 14:08:29 +0200
