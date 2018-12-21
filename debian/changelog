@@ -1,6 +1,12 @@
-firefox-locale-ca-va (63.0.3-2lliurex) bionic; urgency=medium
+firefox-locale-ca-va (64-1lliurex) xenial; urgency=medium
 
-  * Bionic release
+  * Update to version 64
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 21 Dec 2018 09:07:46 +0100
+
+firefox-locale-ca-va (63.0.3-2lliurex) xenial; urgency=medium
+
+  * Update to version 63
 
  -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 11 Dec 2018 15:15:27 +0100
 
