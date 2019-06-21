@@ -1,3 +1,9 @@
+firefox-locale-ca-va (67.0) bionic; urgency=medium
+
+  * Update to version 67
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 21 Jun 2019 14:53:18 +0200
+
 firefox-locale-ca-va (64.0-1lliurex) bionic; urgency=medium
 
   * Update to version 64
