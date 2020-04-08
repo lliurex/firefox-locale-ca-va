@@ -1,18 +1,24 @@
+firefox-locale-ca-va (76.0) bionic; urgency=medium
+
+  * Updated to version 76
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 08 Apr 2020 10:46:24 +0200
+
 firefox-locale-ca-va (67.0) bionic; urgency=medium
 
-  * Update to version 67
+  * Updated to version 67
 
  -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 21 Jun 2019 14:53:18 +0200
 
 firefox-locale-ca-va (64.0-1lliurex) bionic; urgency=medium
 
-  * Update to version 64
+  * Updated to version 64
 
  -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 21 Dec 2018 09:07:46 +0100
 
 firefox-locale-ca-va (63.0.3-2lliurex) bionic; urgency=medium
 
-  * Update to version 63
+  * Updated to version 63
 
  -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 11 Dec 2018 15:15:27 +0100
 
