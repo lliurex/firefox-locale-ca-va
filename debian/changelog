@@ -1,3 +1,9 @@
+firefox-locale-ca-va (82.99) focal; urgency=medium
+
+  * Focal release. Non production ready (as depends on FF release, 83.0 at this moment)
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 05 May 2021 18:23:45 +0200
+
 firefox-locale-ca-va (78.0) bionic; urgency=medium
 
   * Updated to 78
