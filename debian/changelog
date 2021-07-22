@@ -1,3 +1,9 @@
+firefox-locale-ca-va (90.0) focal; urgency=medium
+
+  * Updated to firefox 90
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 22 Jul 2021 12:57:47 +0200
+
 firefox-locale-ca-va (82.99) focal; urgency=medium
 
   * Focal release. Non production ready (as depends on FF release, 83.0 at this moment)
