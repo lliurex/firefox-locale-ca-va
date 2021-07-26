@@ -1,3 +1,9 @@
+firefox-locale-ca-va (90.0) bionic; urgency=medium
+
+  * Updated to 90
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 26 Jul 2021 13:38:38 +0200
+
 firefox-locale-ca-va (78.0) bionic; urgency=medium
 
   * Updated to 78
