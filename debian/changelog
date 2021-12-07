@@ -1,3 +1,9 @@
+firefox-locale-ca-va (94.21) focal; urgency=medium
+
+  * Updated to 94
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 07 Dec 2021 10:49:03 +0100
+
 firefox-locale-ca-va (92.21) focal; urgency=medium
 
   * Updated to firefox 92
