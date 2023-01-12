@@ -1,3 +1,9 @@
+firefox-locale-ca-va (101.21ubuntu1) UNRELEASED; urgency=medium
+
+  * Updated to 108
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 12 Jan 2023 10:59:12 +0100
+
 firefox-locale-ca-va (101.21) focal; urgency=medium
 
   * Updated to 101
