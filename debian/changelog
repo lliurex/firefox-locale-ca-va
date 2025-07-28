@@ -1,3 +1,9 @@
+firefox-locale-ca-va (141.25) noble; urgency=medium
+
+  * updated to 141 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 28 Jul 2025 10:02:02 +0200
+
 firefox-locale-ca-va (135.23) jammy; urgency=medium
 
   * Updated to 135 
